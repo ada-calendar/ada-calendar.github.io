@@ -1,0 +1,7 @@
+title: Ada Calendar
+description: An introduction page of Ada Calendar!
+baseurl: "" # 如果你的站点在子目录下运行,需要设置这个
+url: "https://ada-calendar.github.io"
+
+# 如果你使用默认主题
+theme: jekyll-theme-minimal
